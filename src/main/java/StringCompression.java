@@ -31,5 +31,4 @@ public class StringCompression {
         }
         return index;
     }
-
 }
